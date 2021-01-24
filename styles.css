@@ -1,0 +1,62 @@
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(239,211,179)
+}
+#antiqurio1 {
+
+}
+#Bem-Vindo {
+
+}
+#REFEIES{
+    float: left;
+}
+#BEBIDAS{
+    float: left
+}
+
+#VINHOS__E_ESPUMANTES{
+    float: left;
+}
+.linha1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display:inline-block;
+}
+#PORES {
+    float: left;
+}
+#CAIPIRINHAS_E_COQUETIS {
+    float: left;
+}
+#CERVEJAS {
+    float: left;
+}
+.linha2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display:inline-block;
+}
+#ESPETOS__E_LANCHES {
+    float: left;
+    margin-right: 5px;
+}
+#DOSES__E_COMBOS {
+    float: left;
+}
+#SOBREMESAS {
+    float: left;
+}
+.linha3{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display:inline-block;
+}
